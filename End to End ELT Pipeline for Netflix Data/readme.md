@@ -9,9 +9,10 @@ The Medallion Architecture (Bronze, Silver, Gold layers) was employed to structu
 Autoloader enabled continuous data ingestion, minimizing processing delays. The Medallion Architecture and Delta Live Tables ensured consistent data transformation, cleaning, and validation. ADF automated the ETL process, reducing manual efforts and streamlining data processing. Unity Catalog provided centralized control over metadata and access, improving security.
 
 <p align="center">
-  <img width="1470" alt="N4" src="https://github.com/user-attachments/assets/45b46c1e-b889-4d39-ab28-1dd536936d7f" />
+  <img width="1470" alt="N1" src="https://github.com/user-attachments/assets/cdb8b306-7c79-43f1-becc-fc80d47afeed" />
   <img width="1470" alt="N3" src="https://github.com/user-attachments/assets/b862f65c-ce62-472d-a154-9a46d6c1cbe7" />
   <img width="1470" alt="N2" src="https://github.com/user-attachments/assets/b9de7a85-bcc4-4965-9976-33a44556d26d" />
-  <img width="1470" alt="N1" src="https://github.com/user-attachments/assets/cdb8b306-7c79-43f1-becc-fc80d47afeed" />
   <img width="1470" alt="DLT_GOLD" src="https://github.com/user-attachments/assets/ded51c50-7dec-4847-b656-7268ba0143db" />
+  <img width="1470" alt="N4" src="https://github.com/user-attachments/assets/45b46c1e-b889-4d39-ab28-1dd536936d7f" />
+
 </p>
