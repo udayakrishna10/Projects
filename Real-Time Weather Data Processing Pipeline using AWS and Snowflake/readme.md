@@ -1,3 +1,4 @@
+# Real-Time Weather Data Processing Pipeline using AWS and Snowflake
 In this project, I developed a real-time, scalable data pipeline that ingests, processes, and analyzes weather data using AWS services and Snowflake. First, Data is automatically fetched from an external Weather API at scheduled intervals using AWS Lambda. The ingested weather data is stored in Amazon DynamoDB, a NoSQL database, for efficient querying and storage. Using DynamoDB Streams, I processed the stored data in real-time as changes occurred, enabling continuous updates to the data. The processed data is streamed into Amazon S3 for long-term, secure storage. Finally, the processed data is loaded into Snowflake, a cloud data warehouse, where I can perform advanced analytics and extract insights.
 
 AWS Lambda: For serverless data ingestion and automation.
