@@ -6,3 +6,22 @@ Data ingestion was handled through multiple pipelines using Azure Data Factory. 
 Validation steps were embedded within ADF to detect and handle missing values and inconsistencies. Delta Live Tables in Databricks ensured schema validation, error resolution.. Real-time incremental updates processed only new or modified data, reducing overhead. Once ingested, the data was transformed using PySpark within Databricks. The distributed processing capabilities of PySpark handled large-scale transformations efficiently.
 
 Structured Streaming was used for real-time insights, minimizing processing delays. Automated orchestration using Databricks and ADF ensured efficient job scheduling and dependency management, keeping the pipeline running smoothly without manual intervention.
+  
+<div style="text-align: center;"> <img width="1470" alt="Screenshot 2025-03-31 at 3 38 47 PM" src="https://github.com/user-attachments/assets/88f01d7f-a455-4cbb-a4d2-c93ae465db7c" /> </div>
+
+<div style="text-align: center;">
+    <img width="1470" alt="Screenshot 2025-03-30 at 10 34 30 PM" src="https://github.com/user-attachments/assets/ba60657f-41ce-4f48-926c-04f4ec218b0d" />
+</div>
+
+<div style="text-align: center;">
+    <img width="1470" alt="Screenshot 2025-03-31 at 1 59 50 PM" src="https://github.com/user-attachments/assets/78a43700-1d62-42a1-b8c2-270d6c969a32" />
+</div>
+
+<div style="text-align: center;">
+    <img width="1470" alt="Screenshot 2025-03-31 at 9 35 35 PM" src="https://github.com/user-attachments/assets/bc6c8728-e1d5-404f-928e-ff44ea3e98d6" />
+</div>
+
+<div style="text-align: center;">
+    <img width="1470" alt="Screenshot 2025-04-01 at 12 44 41 PM" src="https://github.com/user-attachments/assets/749b7884-9e34-4379-b207-c10feac22a3d" />
+</div>
+
