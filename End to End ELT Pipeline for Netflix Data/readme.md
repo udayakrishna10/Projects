@@ -1,4 +1,4 @@
-#End to End ELT Pipeline for Netflix Data
+# End to End ELT Pipeline for Netflix Data
 
 In this project, I built a comprehensive data engineering pipeline that handled real-time ingestion, transformation, and validation of Netflix's TV shows and movies data, providing high-quality, clean datasets for analytics and reporting. Databricks was central to the project, where I utilized Delta Lake for optimized storage and processing. Delta Lake provided scalable and fault-tolerant data storage, while Apache Spark enabled distributed data processing. Using Databricks Notebooks, I orchestrated the pipeline and implemented efficient data transformations. 
 
