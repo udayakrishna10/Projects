@@ -1,3 +1,4 @@
+# End to End Data Engineering Pipeline for the Paris Games Data 2024 using Azure
 A pipeline was designed and implemented to ensure seamless real-time ingestion, transformation, and processing of diverse datasets while maintaining data integrity and minimizing latency. Every aspect of the pipeline was optimized for scalability, automation, and robustness. The core of the pipeline was built using Microsoft Azure technologies.The architecture followed a layered approach, ensuring a seamless flow of data from ingestion to final analytics and reporting.
 
 Azure DevOps served as the central hub for version control and CI/CD automation. Each component of the pipeline, including dataset definitions and pipeline configurations, was organized in Azure DevOps repositories. CI/CD pipelines were configured to automate validation, testing, and deployment of updates, significantly reducing errors and downtime.
